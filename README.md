@@ -9,7 +9,7 @@ Este README é um espaço para compartilhar um pouco sobre mim e os projetos que
 ## Sobre Mim
 
 *   Estudante em Análise e Desenvolvimento de Sistemas.
-*   Entusiasta em Java e HTML.
+*   Entusiasta em JS e desenvolvedor de HTML e CSS.
 *   Aprendizado independente e constante.
 
 ## Projetos
@@ -18,7 +18,7 @@ Aqui você encontrará alguns dos meus projetos em desenvolvimento. Fique à von
 
 ## Habilidades
 
-*   Java
+*   JS
 *   HTML
 
 ## Contato
